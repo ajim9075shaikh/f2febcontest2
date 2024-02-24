@@ -1,0 +1,58 @@
+#std{
+    background-color: black;
+    color: white;
+     padding: 5px;
+     padding-left: 20px;
+    
+
+}
+body{
+    width: 1512px;
+height: 76px
+
+}
+#ip1{
+    width: 1226px;
+height: 45px;
+margin: 20px;
+border: 1px;
+background-color: #D9D9D9;
+;
+
+}
+
+#btn1{
+    margin:0px;
+}
+
+button{
+    margin: 20px;
+   
+    background-color: black;
+    color: white;
+    padding: 10px;
+width: 130px;
+    height: 45px;
+    text-align: center;
+
+}
+.btn2{
+    margin-left: 100px;
+}
+
+table {
+    border-collapse: collapse;
+    width:91.4%;
+    margin: 20px;
+    
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
